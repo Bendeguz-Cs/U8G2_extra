@@ -5,7 +5,7 @@
 */
 
 #include "Arduino.h"
-#include "u8g2_menu.h"
+#include "U8G2_menu.h"
 
 u8g2_menu::u8g2_menu() {
   
